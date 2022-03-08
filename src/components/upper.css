@@ -1,0 +1,12 @@
+.upper__title{
+    font-size: 60px;
+}
+
+.upper__profilePic{
+    width: 230px;
+}
+
+.upper__profilePic img{
+    width: 100%;
+    border-radius: 50%;
+}
