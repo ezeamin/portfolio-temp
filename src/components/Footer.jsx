@@ -15,6 +15,9 @@ const Footer = () => {
                 <a href="mailto:ezequielamin@outlook.com" target="_blank" rel="noreferrer" className='footer__social'>
                     <img src="/img/social/mail.png" alt="mail" className='footer__social-icon' />
                 </a>
+                <a href="https://github.com/ezeamin" target="_blank" rel="noreferrer" className='footer__social inv'>
+                    <img src="/img/icons/github.png" alt="github" className='footer__social-icon footer__social-icon-github' style={{}} />
+                </a>
             </div>
         </div>
     );

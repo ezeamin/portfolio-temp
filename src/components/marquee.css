@@ -45,6 +45,17 @@
   animation-delay: 15s;
 }
 
+@media screen and (max-width: 768px) {
+  .marquee--inner1 {
+    animation: marquee1 30s linear infinite;
+  }
+  
+  .marquee--inner2 {
+    animation: marquee2 30s linear infinite;
+    animation-delay: 15s;
+  }
+}
+
 @keyframes marquee1 {
   from {
     transform: translateX(100%);

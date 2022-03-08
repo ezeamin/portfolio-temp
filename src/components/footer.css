@@ -17,3 +17,22 @@
 .footer__social:last-child{
     margin-right: 0;
 }
+
+.footer__social-icon-github{
+    width: 28px !important;
+    margin-bottom: 0.1rem;
+}
+
+@media screen and (max-width: 1200px) {
+    .footer{
+        position: relative;
+    }
+
+    .footer__social-icon{
+        width: 40px;
+    }
+
+    .footer__social-icon-github{
+        width: 38px !important;
+    }
+}

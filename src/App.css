@@ -11,3 +11,9 @@
     color: white;
     font-family: 'Nunito', sans-serif;
 }
+
+@media screen and (max-width: 1200px) {
+    .App{
+        padding: 4rem 0 2rem 0;
+    }
+}

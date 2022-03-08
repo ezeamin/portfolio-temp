@@ -3,7 +3,7 @@ import "./upper.css";
 
 const Upper = () => {
     return (
-        <div className='row justify-content-between'>
+        <div className='row justify-content-between upper__order'>
             <div className='col-sm-12 col-md-7'>
                 <h1 className='fw-bold upper__title'>Hi!</h1>
                 <h3>I'm <strong>Ezequiel Amin</strong>, Argentine MERN Full Stack Developer.</h3>

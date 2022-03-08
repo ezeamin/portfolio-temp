@@ -3,10 +3,24 @@
 }
 
 .upper__profilePic{
-    width: 230px;
+    text-align: end;
 }
 
 .upper__profilePic img{
-    width: 100%;
+    width: 210px;
     border-radius: 50%;
+}
+
+@media screen and (max-width: 768px) {
+    .upper__title{
+        font-size: 50px;
+    }
+
+    .upper__profilePic img{
+        width: 190px;
+    }
+
+    .upper__order{
+        flex-direction: column-reverse;
+    }
 }

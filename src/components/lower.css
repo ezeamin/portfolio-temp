@@ -7,3 +7,17 @@ ul{
     padding: 0;
     margin: 0;
 }
+
+.list__item{
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+    .lower__description{
+        font-size: 18px;
+    }
+
+    .list__item{
+        margin-bottom: 2rem;
+    }
+}
