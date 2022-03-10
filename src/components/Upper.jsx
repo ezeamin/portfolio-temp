@@ -11,10 +11,10 @@ const Upper = () => {
           Developer.
         </h3>
         <p className="lower__description mb-0">
-          I'm studying to be a Computer Science Engineer by the end of 2025.
+          I'm studying to be a Computer Science Engineer by the end of 2024.
           Among other things, I love math and programming. I believe my studies
           mix them both greatly, and that's why I love what I study and what I
-          do.{" "}
+          do.
         </p>
       </div>
       <div className="upper__profilePic col-sm-12 col-md-5">
