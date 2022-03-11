@@ -34,7 +34,7 @@ const List = () => {
           <h3 className="fw-bold">Other abilities</h3>
           <hr className="text-light mt-1" />
           <ul>
-            <li>Important knowledge in math and physics</li>
+            <li>Distinguishable knowledge in math and physics</li>
             <li>Great leadership</li>
             <li>
               Proficiency in English, Native in Spanish, and little knowledge of

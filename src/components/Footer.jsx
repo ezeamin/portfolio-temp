@@ -4,7 +4,8 @@ import './footer.css';
 const Footer = () => {
     return (
         <div className='text-center mt-5 mb-0 footer'>
-            <p className='mb-2'>Portfolio in progress.</p>
+            <p className='mb-0'>Portfolio in progress.</p>
+            <p className='mb-2'>For projects, please refer to my Github page.</p>
             <div className="footer__media">
                 <a href="https://www.linkedin.com/in/ezequielamin/" target="_blank" rel="noreferrer" className='footer__social'>
                     <img src="/img/social/linkedin.png" alt="linkedin" className='footer__social-icon' />
