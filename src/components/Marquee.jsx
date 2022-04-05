@@ -53,6 +53,12 @@ const Marquee = () => {
               <div className="marquee__icon" style={{ width: "40px" }}>
                 <img src="/img/icons/slack.png" alt="slack" />
               </div>
+              <div className="marquee__icon" style={{ width: "40px" }}>
+                <img src="/img/icons/jest.png" alt="jest" />
+              </div>
+              <div className="marquee__icon" style={{ width: "37px" }}>
+                <img src="/img/icons/passport.png" alt="passport" />
+              </div>
             </div>
           ) : (
             <div>
@@ -76,6 +82,9 @@ const Marquee = () => {
               </div>
               <div className="marquee__icon inv">
                 <img src="/img/icons/express.png" alt="express" />
+              </div>
+              <div className="marquee__icon" style={{ width: "37px" }}>
+                <img src="/img/icons/passport.png" alt="passport" />
               </div>
             </div>
           )}
@@ -125,6 +134,12 @@ const Marquee = () => {
               <div className="marquee__icon" style={{ width: "40px" }}>
                 <img src="/img/icons/slack.png" alt="slack" />
               </div>
+              <div className="marquee__icon" style={{ width: "40px" }}>
+                <img src="/img/icons/jest.png" alt="jest" />
+              </div>
+              <div className="marquee__icon" style={{ width: "37px" }}>
+                <img src="/img/icons/passport.png" alt="passport" />
+              </div>
             </div>
           ) : (
             <div>
@@ -148,6 +163,9 @@ const Marquee = () => {
               </div>
               <div className="marquee__icon" style={{ width: "40px" }}>
                 <img src="/img/icons/slack.png" alt="slack" />
+              </div>
+              <div className="marquee__icon" style={{ width: "40px" }}>
+                <img src="/img/icons/jest.png" alt="jest" />
               </div>
             </div>
           )}

@@ -19,6 +19,7 @@ const List = () => {
           <ul>
             <li>JavaScript Framework: Node.js, Express.js</li>
             <li>Database management: Mongo DB, MySQL</li>
+            <li>Unit and Integration testing with Jest</li>
           </ul>
         </div>
         <div className="col-sm-12 col-md-6 list__item">
@@ -35,7 +36,7 @@ const List = () => {
           <hr className="text-light mt-1" />
           <ul>
             <li>Distinguishable knowledge in math and physics</li>
-            <li>Great leadership</li>
+            <li>Great leadership and teamwork</li>
             <li>
               Proficiency in English, Native in Spanish, and little knowledge of
               German (A2)
