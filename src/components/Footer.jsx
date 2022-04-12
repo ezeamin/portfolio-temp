@@ -17,7 +17,10 @@ const Footer = () => {
                     <img src="/img/social/mail.png" alt="mail" className='footer__social-icon' />
                 </a>
                 <a href="https://github.com/ezeamin" target="_blank" rel="noreferrer" className='footer__social inv'>
-                    <img src="/img/icons/github.png" alt="github" className='footer__social-icon footer__social-icon-github' style={{}} />
+                    <img src="/img/icons/github.png" alt="github" className='footer__social-icon footer__social-icon-github'/>
+                </a>
+                <a href="https://bit.ly/notion-ezeamin" target="_blank" rel="noreferrer" className='footer__social'>
+                    <img src="/img/social/notion.png" alt="notion" className='footer__social-icon footer__social-icon-notion'/>
                 </a>
             </div>
         </div>

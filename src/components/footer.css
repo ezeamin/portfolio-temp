@@ -23,6 +23,11 @@
     margin-bottom: 0.1rem;
 }
 
+.footer__social-icon-notion{
+    width: 29px !important;
+    margin-bottom: 0.05rem;
+}
+
 @media screen and (max-width: 1200px) {
     .footer{
         position: relative;
@@ -34,5 +39,10 @@
 
     .footer__social-icon-github{
         width: 38px !important;
+    }
+
+    
+    .footer__social-icon-notion{
+        width: 37px !important;
     }
 }
